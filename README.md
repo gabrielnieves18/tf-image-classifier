@@ -6,7 +6,7 @@ This is for learning purposes only. I am starting out with Machine Learning (and
 It would be really cool if could help even one person with my commentary. Hopefully, this will be the start of a compendium of content that anyone can use to further their knowledge in Machine Learning and Artificial Intelligence.
 
 # Original Code
-[Get the authors code](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
+[Get the authors code](https://github.com/sankit1/cv-tricks.com)
 
 # Contact Information
 For any type of inquiry, you can contact me via email at gabrielnieves18@gmail.com
