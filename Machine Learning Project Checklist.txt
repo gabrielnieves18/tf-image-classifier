@@ -1,0 +1,17 @@
+1) Frame the problem and look at the big picture
+
+2) Get Data
+
+3) Explore the data to gain insights
+
+4) Prepare the data to better understand the underlying data patterns to Machine Learning algorithms
+
+5) Explore many different models and shortlist the best ones.
+
+6) Fine-tunes your models and combine them into a great solution
+
+7) Launch, monitor, and maintain your system
+
+
+
+Note: Edit this checklist as necessary to fit your particular needs.

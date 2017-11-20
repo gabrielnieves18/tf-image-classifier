@@ -1,0 +1,2 @@
+# Example for flask version 0.12.0 dependency
+# Flask == 0.12.0
